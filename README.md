@@ -20,7 +20,7 @@
 
 
 ## License
-This application is covered under the [MIT](https://opensource.org/licenses/MIT) license.
+ [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing
 
@@ -29,7 +29,7 @@ This application is covered under the [MIT](https://opensource.org/licenses/MIT)
 
 
 ## Questions
-If you have any questions, feel free to reach out to me via GitHub or email:
+contact me via GitHub or email for further questions:
 
 GitHub: [](https://github.com/)
 
