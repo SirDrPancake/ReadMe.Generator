@@ -1,9 +1,9 @@
 # ReadMe Generator
       
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache%202.0)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-Generates a ReadME file
+
 
 ## Table of Contents
 - [Installation](#installation)
@@ -17,20 +17,20 @@ Generates a ReadME file
 
 
 ## Usage
-N/A
+
 
 ## License
-This application is covered under the [Apache 2.0](https://opensource.org/licenses/Apache%202.0) license.
+This application is covered under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing
-N/A
+
 
 ## Tests
-N/A
+
 
 ## Questions
 If you have any questions, feel free to reach out to me via GitHub or email:
 
-GitHub: [Github](https://github.com/Github)
+GitHub: [](https://github.com/)
 
-Email: MyEmail@gmail.com
+Email: 
