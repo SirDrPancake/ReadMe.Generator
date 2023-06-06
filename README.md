@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache%202.0)
 
 ## Description
-Generates a ReadMe file
+Generates a ReadME file
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,16 +14,16 @@ Generates a ReadMe file
 - [Questions](#questions)
 
 ## Installation
-install inquirer using the command 'npm install inquirer'. the run the command 'node index.js'
+
 
 ## Usage
-this is an example of the generator
+N/A
 
 ## License
 This application is covered under the [Apache 2.0](https://opensource.org/licenses/Apache%202.0) license.
 
 ## Contributing
-By generating more ReadMes!
+N/A
 
 ## Tests
 N/A
@@ -31,6 +31,6 @@ N/A
 ## Questions
 If you have any questions, feel free to reach out to me via GitHub or email:
 
-GitHub: [SirDrPancake](https://github.com/SirDrPancake)
+GitHub: [Github](https://github.com/Github)
 
-Email: MyEmailAddress@gmail.com
+Email: MyEmail@gmail.com
